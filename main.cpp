@@ -4,6 +4,7 @@
 #include "logic.h"  
 #include "variables.h"
 
+//MAIN
 int main()
 {
     nameAsk();
