@@ -1,7 +1,7 @@
 #include <iostream>
 #include "grid.h"
-#include "host.h"   //for now ive just included everything, but be sure to remove the includes that are not
-#include "logic.h"  //needed, aight?
+#include "host.h"   
+#include "logic.h"  
 #include "variables.h"
 
 int main()
